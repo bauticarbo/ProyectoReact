@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/icon?family=Material+Icons");
+
+#header {
+  background-color: rgb(247, 247, 247);
+  height: 70px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+#nroCarrito {
+  background-color: red;
+  border-radius: 50%;
+  height: 10px;
+  width: 20px;
+}
